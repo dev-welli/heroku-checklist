@@ -2,8 +2,8 @@
 
 ## Heroku setup
 
-- [ ] You have a Heroku account.
-- [ ] You have Heroku Toolbelt installed.
+- [ ] You have a Heroku account..
+- [ ] You have Heroku Toolbelt installed..
 - [ ] You can login to Heroku on your command line with `heroku login`.
 
 
